@@ -1,0 +1,36 @@
+#class1
+{
+    text-align: center;
+
+}
+#class2
+{
+    text-align: center;
+}
+#class3
+{
+    text-align: center;
+}
+#class4
+{
+margin-left: 30%;
+margin-top: 3%;
+}
+.pad{
+    width: 550px;
+    margin: auto;
+    text-align: justify;
+}
+#class5
+{
+margin-left: 54%;
+margin-top: 3%;
+}
+.padd{
+    margin-left: 23%;
+    text-align: center;
+    
+}
+body{
+line-height: 1.5;
+}
