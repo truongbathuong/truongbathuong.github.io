@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8d19b47-bd40-42aa-b6bb-295719d6810f" name="Default Changelist" comment="" />
+    <list default="true" id="184f71ec-13e9-4666-af51-7a5ea9961aa8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Spring_TechMaster/Bai1/src/main/resources/static/mec.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring_TechMaster/Bai1/src/main/resources/static/rollroyce.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_TechMaster/Bai1/src/main/java/com/topCar/Bai1/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_TechMaster/Bai1/src/main/java/com/topCar/Bai1/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_TechMaster/Bai1/src/main/resources/static/bmw.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_TechMaster/Bai1/src/main/resources/static/bmw.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_TechMaster/Bai1/src/main/resources/static/ferari.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_TechMaster/Bai1/src/main/resources/static/ferari.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_TechMaster/Bai1/src/main/resources/static/hondacivic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_TechMaster/Bai1/src/main/resources/static/huracan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_TechMaster/Bai1/src/main/resources/static/lambo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_TechMaster/Bai1/src/main/resources/static/lambo.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Spring_TechMaster" />
   </component>
-  <component name="ProjectId" id="1qvn1wBBCeeaRvXqlCKlalhvj57" />
+  <component name="ProjectId" id="1r18uQ1KepRINqUiv3EHuUmwOHO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,17 +28,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CTDLGT" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f8d19b47-bd40-42aa-b6bb-295719d6810f" name="Default Changelist" comment="" />
-      <created>1617968722237</created>
+      <changelist id="184f71ec-13e9-4666-af51-7a5ea9961aa8" name="Default Changelist" comment="" />
+      <created>1618132458237</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1617968722237</updated>
+      <updated>1618132458237</updated>
     </task>
     <servers />
   </component>
