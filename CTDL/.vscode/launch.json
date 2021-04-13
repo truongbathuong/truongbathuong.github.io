@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch _88Merge_Sorted_Array",
+            "request": "launch",
+            "mainClass": "_88Merge_Sorted_Array",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _1678Goal",
+            "request": "launch",
+            "mainClass": "_1678Goal",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _1678GoalParserInterpretation",
+            "request": "launch",
+            "mainClass": "_1678GoalParserInterpretation",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch R1_Merge_Two_Sorted_Lists",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions.R1_Merge_Two_Sorted_Lists",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch R2_Reverse_Linked_List_02",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions.R2_Reverse_Linked_List_02",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch R3_Swap_Nodes_in_Pairs",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions.R3_Swap_Nodes_in_Pairs",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _04_1089_Duplicate_Zeros",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._04_1089_Duplicate_Zeros",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _13_1051_Height_Checker",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._13_1051_Height_Checker",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _14_414_Third_Maximum_Number",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._14_414_Third_Maximum_Number",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _15_448_Find_All_Numbers_Disappeared_in_an_Array",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._15_448_Find_All_Numbers_Disappeared_in_an_Array",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _16_707_Design_Linked_List",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._16_707_Design_Linked_List",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _17_141_Linked_List_Cycle",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._17_141_Linked_List_Cycle",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _18_142_Linked_List_Cycle_II",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._18_142_Linked_List_Cycle_II",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _20_19_Remove_Nth_Node_From_End_of_List",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._20_19_Remove_Nth_Node_From_End_of_List",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _21_206_Reverse_Linked_List",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._21_206_Reverse_Linked_List",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _22_203_Remove_Linked_List_Elements",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._22_203_Remove_Linked_List_Elements",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _23_328_Odd_Even_Linked_List",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._23_328_Odd_Even_Linked_List",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _26_234_Palindrome_Linked_List",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._26_234_Palindrome_Linked_List",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _27_66_Plus_one",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._27_66_Plus_one",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _28_622_DesignCircularQueue",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._28_622_DesignCircularQueue",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _29_20_ValidParentheses",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._29_20_ValidParentheses",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _30_155_MinStack",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._30_155_MinStack",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _31_232_ImplementQueueusingStacks",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._31_232_ImplementQueueusingStacks",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _32_225_ImplementStackusingQueues",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._32_225_ImplementStackusingQueues",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _33_394_DecodeString",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._33_394_DecodeString",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _34_344_Reverse_String",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._34_344_Reverse_String",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _35_509_Fibonacci_Number",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._35_509_Fibonacci_Number",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _36_50_Pow",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._36_50_Pow",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _40_704_Binary_Search",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.LeetcodeSolutions._40_704_Binary_Search",
+            "projectName": "CTDL_b0df82ac"
+        },
+        {
+            "type": "java",
+            "name": "Launch _1221SplitaStringinBalancedStrings",
+            "request": "launch",
+            "mainClass": "CTDLGT_Students.Samples.Lession_02._1221SplitaStringinBalancedStrings",
+            "projectName": "CTDL_b0df82ac"
+        }
+    ]
+}
