@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+ul, li {
+    list-style-type: none;
+}
+
+.list-item {
+    display: flex;
+    flex-direction: row;
+    width: 600px;
+    height: 300px;
+    border: 1px solid #BFBFBF;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    margin: 30px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 50px 50px;
+
+}
+
+img {
+    width: 100%;
+    object-fit: fill;
+}
