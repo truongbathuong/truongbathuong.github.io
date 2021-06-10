@@ -6,12 +6,64 @@
 }
 html{
     font-family: Arial, Helvetica, sans-serif;
+    scroll-behavior: smooth;
+}
+.row{
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.row::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+.mt-16{
+    margin-top: 16px !important;
+
+}
+.mt{
+    margin-top: 8px !important;
+}
+.col{
+    float: left;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.col-third{
+    width: 33.33333%;
+}
+.col-hard{
+    width: 50%;
 }
 .clear{
     clear: both;
 }
 .text-white{
     color: white !important;
+}
+.text-center{
+    text-align: center !important;
+}
+.col-full{
+    width: 100%;
+}
+.btn{
+    color: #fff;
+    background-color: #000;
+    text-decoration: none;
+    padding: 11px 16px;
+    display: inline-block;
+    margin-top: 15px;
+    border: none;
+}
+.btn:hover{
+    cursor: pointer;
+    color: #000;
+    background-color: #ccc;
+
+}
+.pull-right{
+    float: right;
 }
 #wrapper{
 
@@ -25,6 +77,7 @@ html{
     top: 0;
     left: 0;
     right: 0;
+    z-index: 1;
 }
 #nav{
     display: inline-block;
@@ -129,9 +182,10 @@ html{
 }
 #content .content-section{
     width: 800px;
-    padding: 64px 0;
+    padding: 64px 0 112px;
     margin-left: auto;
     margin-right: auto;
+
 
 }
 #content .section-heading,
@@ -160,12 +214,7 @@ html{
 #content .member-list{
     margin-top: 48px;
 }
-#content .member-item{
-   float: left;
-   width: 33.33333%;
-   text-align: center;
-   
-}
+
 #content .member-name{
     font-size: 15px;
 }
@@ -213,15 +262,11 @@ html{
 /* Ticket End */
 /* Places */
 .places-list{
-    margin: 32px -8px 0;
-    padding-bottom: 48px;
+    margin-top: 32px;
+    
     
 }
-.place-item{
-    float: left;
-    width: 33.33333%;
-    padding: 0 8px;
-}
+
 .place-img{
     width: 100%;
     display: block;
@@ -246,23 +291,55 @@ color: #757575;
   margin-top: 15px; 
   line-height: 1.6; 
 }
-.place-buy-btn{
-    color: #fff;
-    background-color: #000;
-    text-decoration: none;
-    padding: 11px 16px;
-    display: inline-block;
-    margin-top: 15px;
-}
-.place-buy-btn:hover{
-    color: #000;
-    background-color: #ccc;
 
-}
 /* Place End */
 /* End Tour */
-/* Footer */
-#footer{
+/* Contact */
+.contact-content{
+    margin-top: 48px;
+}
+.contact-info{
+    font-size: 18px;
+    line-height: 1.4;
+}
+.contact-form{
+    font-size: 15px;
+}
+.form-control{
+    padding: 10px;
+    border:  1px solid #ccc;
+    width: 100%;
+}
+.contact-info i[class*=fa-]{
+    width: 30px;
+    display: inline-block;
 
 }
+/* End Contact */
+/* Map */
+.map-section img{
+    width: 100%;
+}
+/* End Map */
+/* Footer */
+#footer{
+    padding: 64px 16px;
+    text-align: center;
+}
+.social-list{
+    font-size: 24px;
+}
+.social-list a, .copyright a, .copyright{
+    color: rgba(0, 0, 0, 0.6);
+    text-decoration: none;
+}
+.social-list a:hover{
+    color: rgba(0, 0, 0, 0.4);
+}
+.copyright{
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+
 /* End Footer */
