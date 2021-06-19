@@ -1,8 +1,8 @@
 ![image](https://user-images.githubusercontent.com/76955363/122646219-43c88f80-d148-11eb-8257-ce5559731691.png)
 
-TRUY VẤN
+"TRUY VẤN
 
- Tìm thông tin sách có thể loại 'Truyen ngan':
+Tìm thông tin sách có thể loại 'Truyen ngan':
 SELECT * 
 FROM Sach INNER JOIN Sach_TheLoai ON Sach.id_sach = Sach_TheLoai.id_sach 
 INNER JOIN Theloai ON Sach_TheLoai.id_theloai = Theloai.id_theloai 
@@ -27,3 +27,4 @@ WHERE Chitietmuon.id_phieumuon IN (SELECT Phieumuon.id_phieumuon
                                    ON Phieumuon.id_phieumuon = Phieutra.id_phieutra
                                    WHERE Phieutra.NgayTra IS NULL 
                                     	AND CURRENT_DATE - Phieumuon.NgayMuon > 7 ) 
+                                     "
