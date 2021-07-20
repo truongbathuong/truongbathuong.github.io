@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#header{
+    background-image: url(../img/webisite_logo/parallax1.jpg);
+    min-height: 400px;
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#header .nav{
+    display: inline-block;
+}
+.nav > li{
+    display: inline-block;
+
+}
+.nav li a{
+    text-decoration: none;
+    line-height: 46px;
+    padding: 8px 16px;
+    color: inherit;
+}
+.index-opacity{
+    opacity: 0.75;
+}
+.nav li:hover a{
+    background-color: #ccc;
+    color: #000;
+}
+#header .search-btn{
+    float: right;
+    padding: 0 21px;
+}
+#header .search-icon{
+    color: white;
+    line-height: 46px;
+    font-size: 20px;
+}
+#header .search-btn:hover{
+    background-color: #f44336;
+    cursor: pointer;
+}
