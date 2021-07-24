@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <Style>
+        .parent{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 400px;
+
+        }
+        .child{
+            width: 20%;
+            margin-left:10px ;
+            margin-right: 10px;
+            display: none;
+
+        }
+        .child img{
+            height: 200px;
+            width: 100%; 
+        }
+        #leftarrow,#rightarrow{
+            margin-left: 12px;
+            width: 3%;
+            display: inline-block;
+        }
+        #leftarrow button,#rightarrow button{
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+    </Style>
+</head>
+
+<body onload="show()">
+    <div class="parent">
+        <div id="leftarrow" onclick="moveleft">
+            <button>&lt;</button>
+        </div>
+        <div id="c1" class="child">
+            <img src="../asset/img/webisite_logo/p1.jpg" alt="">
+        </div>
+        <div id="c2" class="child">
+            <img src="../asset/img/webisite_logo/p2.jpg" alt="">
+        </div>
+        <div id="c3" class="child">
+            <img src="../asset/img/webisite_logo/p3.jpg" alt="">
+        </div>
+        <div id="c4" class="child">
+            <img src="../asset/img/webisite_logo/p4.jpg" alt="">
+        </div>
+        <div id="c5" class="child">
+            <img src="../asset/img/webisite_logo/p5.jpg" alt="">
+        </div>
+        <div id="c6" class="child">
+            <img src="../asset/img/webisite_logo/p6.jpg" alt="">
+        </div>
+        <div id="c7" class="child">
+            <img src="../asset/img/webisite_logo/p7.jpg" alt="">
+        </div>
+        <div id="c7" class="child">
+            <img src="../asset/img/webisite_logo/p8.jpg" alt="">
+        </div>
+        <div id="rightarrow" onclick="moveright">
+            <button>&gt;</button>
+        </div>
+    </div>
+    <script src="./Slide-Scroll.js"></script>
+</body>
+</html>
