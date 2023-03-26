@@ -41,3 +41,8 @@
         left: 0 !important;
         transition: all 2s;
     }
+@media only screen and (max-width: 760px) {
+        .wrap-present{
+            margin-top: 100px;
+        }
+    }
